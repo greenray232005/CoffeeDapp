@@ -1,5 +1,6 @@
 Here's the updated `README.md` file with the contract name changed to "Coffee":
 
+![screenshot](coffee.png)
 ```markdown
 # Coffee Smart Contract
 
