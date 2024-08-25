@@ -3,7 +3,7 @@ import abi from "./contractJson/chai.json"
 import {ethers} from "ethers"
 import Memos from './components/Memos'
 import Buy from './components/Buy'
-import chai from "./chai.png";
+import chai from "./coffee.png";
 import './App.css'
 
 function App() {
