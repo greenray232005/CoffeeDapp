@@ -1,6 +1,7 @@
 Here's the updated `README.md` file with the contract name changed to "Coffee":
 
 ![screenshot](coffee.png)
+
 ```markdown
 # Coffee Smart Contract
 
@@ -52,5 +53,5 @@ Contract Address: 0xc4df34914767107bf86926452c34ff60da49d04952fef07da076e027a634
 
 This project is licensed under the GPL-3.0 License.
 ```
+![screenshot](Screenshot 2024-08-25 132840.png)
 
-Don't forget to fill in your personal details under the "Developer Details" section.
